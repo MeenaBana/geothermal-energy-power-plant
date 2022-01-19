@@ -17,7 +17,7 @@ require energy storage or not? What are the advantages and disadvantages of a ge
 
 <a id="project-description"></a>
 ## Project description
-The project was mainly focused on answering the problem statement as well as modeling *Organic Rankine Cycle* (ORC), harvesting geothermal energy by using different methods and approaches, analyzing and visualizing geothermal energy in the world (with the help of literature), and utilization of geothermal resources in Europe. 
+The project was mainly focused on answering the problem statement as well as modeling *Organic Rankine Cycle* (ORC), different methods and approaches for harvesting geothermal energy, analyzing and visualizing geothermal energy data, and utilization of geothermal resources in Europe.
 
 
 <a id="modeling-analysis"></a>
