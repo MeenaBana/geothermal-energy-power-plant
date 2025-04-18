@@ -1,0 +1,59 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.mex*
+*.mat
+*.slxc
+slprj/
+sccprj/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environment
+venv/
+venv
+.venv
+.venv*
+env/
+.env
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Output files and directories
+figures/
+results/
+*.png
+*.jpg
+*.pdf
+*.fig
+
+# Operating system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
