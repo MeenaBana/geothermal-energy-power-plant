@@ -43,8 +43,8 @@ ENV/
 
 # Output files and directories
 figures/
-results/
-*.png
+#results/
+#*.png
 *.jpg
 *.pdf
 *.fig
